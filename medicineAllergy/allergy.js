@@ -26,3 +26,4 @@ app.post('/validasialergiobat', (req, res) => {
 app.listen(8080, () => {
     console.log('Allergy detector app listening on port 8080!')
 })
+
